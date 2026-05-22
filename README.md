@@ -1,3 +1,5 @@
+[Switch to English](./README_EN.md)
+
 PoAIT — Proof of AI Token
 
 先叠甲（本人为计算小白改项目主题框架由ai生成，本人只是提出了消耗token来获取虚拟货币的想法）
